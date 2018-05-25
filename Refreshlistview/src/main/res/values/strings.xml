@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RefreshListview</string>
+    <string name="zuihou">最后刷新时间:</string>
+    <string name="xialashuaxin">下拉刷新</string>
+    <string name="zhengzaishuaxin">正在刷新...</string>
+    <string name="songkaishuaxin">松开刷新</string>
+    <string name="xialashuaxin1">下拉刷新</string>
+    <string name="zuihoushuaixinshijian">最后刷新时间:</string>
+</resources>
